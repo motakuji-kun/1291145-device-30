@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Олег Костерев](https://up.htmlacademy.ru/htmlcss/30/user/1291145).
-* Наставник: `Неизвестно`.
+* Наставник: [Anton Leonov](https://htmlacademy.ru/profile/id101137).
 
 ---
 
